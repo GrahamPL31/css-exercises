@@ -1,13 +1,14 @@
-.blackwhite {
-    background-color: black;
-    color: #fff;
+.black {
+  background-color: black;
+  color: #fff;
 }
 
 .yellow {
-    background-color: #ff0;
+  background-color: #ff0;
 }
 
-.both {
-    font-size: 28px;
-    font-family: Helvetica, 'Times New Roman', 'sans-serif';
+.black,
+.yellow {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
 }
